@@ -1,4 +1,4 @@
-# Climate-Change-Impacts-2025---Data-Analysis-Visualization
+# Climate-Change-Impacts-2025---Data-Analysis-Visualization  - PowerBI and Tableau Dashboards
 Climate Change Impacts 2025 - Data Analysis &amp; Visualization
 
 
@@ -206,8 +206,8 @@ Licensed under the [MIT License](LICENSE).
 ## 📬 Contact
 
 For questions, insights, or collaboration:
-📧 Email: *yourname@domain.com*  
-🌐 GitHub: [your-username](https://github.com/your-username)
+📧 Email: *abhijithaugustinem@gmail.com*  
+🌐 GitHub: [[your-username](https://github.com/your-username)](https://github.com/abhijithaug)
 
 
 
