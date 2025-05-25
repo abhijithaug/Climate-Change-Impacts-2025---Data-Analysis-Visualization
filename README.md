@@ -106,6 +106,116 @@ The interactive Tableau dashboard includes the following visual components:
 
 ---
 
+## 🌍 Impacts of Climate Change - 2024 | Power BI Dashboard
+
+This Power BI dashboard offers a comprehensive visualization of climate change impacts across regions and time. The dashboard is built using a consolidated dataset — `Climate_Change_Combined_Data` — and delivers critical insights into environmental, climatic, and economic metrics.
+
+---
+
+## 📊 Dashboard Overview
+
+The **Power BI dashboard** presents key metrics through visualizations that allow users to:
+- Explore climate patterns by **season**, **climate zone**, and **biome type**
+- Identify the frequency of **Extreme Weather Events (EWE)**
+- Understand the **economic and infrastructure impacts**
+- Compare **temperature**, **humidity**, **air quality**, and more across selected countries and cities
+
+
+---
+
+## 🧾 Key Metrics Displayed
+
+### 📌 Environmental & Climate Metrics:
+- 🌡️ **Avg Temperature:** 17.5°C
+- 💧 **Average Humidity:** 54.8 %RH
+- 🌧️ **Average Precipitation:** 100.4 mm
+- 🌫️ **Air Quality Index (AQI):** 255.6
+- 📆 **Average Monthly Temperature Trends**
+- 🌬️ **AQI by Season** (Winter, Spring, Summer, Autumn)
+
+### ⚠️ Impact Indicators:
+- 🌪️ **Total Extreme Weather Events (EWE):** 15.35K
+- 🏚️ **Avg Infrastructure Vulnerability:** 5.52
+- 💰 **Total Economic Impact:** $766 Billion
+- 📈 **Economic Impact Estimate by Month**
+- 📉 **Monthly Trend: Temperature vs AQI**
+
+### 🌎 Comparative Metrics:
+- 📍 **Filter by**: Country, City, Season, Climate Zone, and Biome Type
+- 🧭 **EWE by Season** and **EWE by Climate Zone**
+- 🏞️ **Biome Categories**: Desert, Forest, Grassland, Tundra
+
+---
+
+## 📂 Dataset Summary
+
+The dashboard is powered by `Climate_Change_Combined_Data`, which integrates multiple climate and impact datasets. Key fields include:
+
+| Category | Example Fields |
+|----------|----------------|
+| Climate | Temperature, Humidity, Precipitation |
+| Environmental | AQI, Climate Zone, Biome |
+| Socio-Economic | Economic Impact, Infrastructure Vulnerability |
+| Temporal | Month, Season |
+| Location | Country, City |
+
+---
+
+## 🛠 Tools Used
+
+- **Power BI Desktop** – Visualization and data modeling
+- **DAX** – Custom measures and data transformation
+- **Excel / CSV** – Initial data cleaning and merging
+
+---
+
+## 🔍 Use Cases
+
+This dashboard is designed for:
+- Environmental researchers analyzing climate trends
+- Policy makers developing sustainability strategies
+- Urban planners evaluating infrastructure vulnerability
+- Educators raising climate change awareness
+
+---
+
+## 🚀 Future Enhancements
+
+- Integrate real-time climate data APIs (e.g., NOAA, Copernicus)
+- Add forecasting and scenario modeling (ML-based)
+- Expand to additional countries and biomes
+- Embed web-based Power BI report for broader accessibility
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please:
+1. Fork the repository
+2. Make changes in a new branch
+3. Submit a pull request
+
+---
+
+## 📜 License
+
+Licensed under the [MIT License](LICENSE).
+
+---
+
+## 📬 Contact
+
+For questions, insights, or collaboration:
+📧 Email: *yourname@domain.com*  
+🌐 GitHub: [your-username](https://github.com/your-username)
+
+
+
+
+
+
+
+
 ## 🤝 Contributing
 
 We welcome contributions! Please fork the repository, make updates, and submit a pull request. Feel free to open issues for bugs, suggestions, or enhancements.
