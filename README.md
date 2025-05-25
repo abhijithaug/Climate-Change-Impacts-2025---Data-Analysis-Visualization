@@ -2,7 +2,7 @@
 Climate Change Impacts 2025 - Data Analysis &amp; Visualization
 
 
-# 🌍 Climate Change Impacts 2025 - Data Analysis & Visualization
+# 🌍 Climate Change Impacts 2025 - Tableau Dashboard 
 
 This repository provides an in-depth analysis and interactive visualization of climate change impacts across various global regions using **climate, environmental, and socio-economic datasets**. The accompanying **Tableau Dashboard** illustrates these insights through visual storytelling to support better understanding, awareness, and action toward climate resilience.
 
